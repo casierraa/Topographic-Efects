@@ -1,0 +1,210 @@
+\begin{thebibliography}{34}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[Ashford et~al.(1997)Ashford, Sitar, Lysmer, \&
+  Deng]{ashford1997topographic}
+Ashford, S.~A., Sitar, N., Lysmer, J., \& Deng, N., 1997.
+\newblock Topographic effects on the seismic response of steep slopes, {\it
+  Bulletin of the Seismological Society of America\/}, {\bf 87}(3), 701--709.
+
+\bibitem[Assimaki(2004)]{assimaki2004topography}
+Assimaki, D., 2004.
+\newblock {\it Topography effects in the 1999 Athens earthquake: Engineering
+  issues in seismology\/}, Ph.D. thesis, Massachusetts Institute of Technology.
+
+\bibitem[Banerjee(1994)]{banerjeeboundary}
+Banerjee, P., 1994.
+\newblock {\it The boundary element methods in engineering\/}, McGraw-Hill,
+  London.
+
+\bibitem[Bard et~al.(1995)Bard, Czitrom, Durville, Godefroy, Meneroud, Mouroux,
+  \& Pecker]{bard1995guidelines}
+Bard, P., Czitrom, G., Durville, J., Godefroy, P., Meneroud, J., Mouroux, P.,
+  \& Pecker, A., 1995.
+\newblock Guidelines for seismic microzonation studies, {\it Delegation of
+  major risks of the French Ministry of the environment-direction for
+  prevention, pollution and risks\/}.
+
+\bibitem[Bielak et~al.(2003{\natexlab{a}})Bielak, Akcelik, Biros,
+  Epanomeritakis, \& Fernandez]{Akcelik2003}
+Bielak, J., Akcelik, V., Biros, G., Epanomeritakis, I., \& Fernandez, A.,
+  2003{\natexlab{a}}.
+\newblock {High resolution forward and inverse earthquake modeling on terascale
+  computers}, in {\em Supercomputing, 2003 ACM/IEEE Conference\/}, no. March
+  2005, pp. 52--52, Phoenix, Arizona.
+
+\bibitem[Bielak et~al.(2003{\natexlab{b}})Bielak, Loukakis, Hisada, \&
+  Yoshimura]{bielak2003}
+Bielak, J., Loukakis, K., Hisada, Y., \& Yoshimura, C., 2003{\natexlab{b}}.
+\newblock {D}omain {R}eduction {M}ethod for {T}hree-{D}imensional {E}arthquake
+  {M}odeling in {L}ocalized {R}egions, {P}art {I}: {T}heory, {\it Bulletin of
+  the Seismological Society of America\/}, {\bf 93}, 817--824.
+
+\bibitem[Bielak et~al.(2005)Bielak, Ghattas, \& Kim]{Bielak2005}
+Bielak, J., Ghattas, O., \& Kim, E.~J., 2005.
+\newblock {Parallel octree-based finite element method for large-scale
+  earthquake ground motion simulation}, {\it Computer Modeling in Engineering
+  and sciences\/}, {\bf 10}(2), 99--112.
+
+\bibitem[Boore(1972)]{boore1972note}
+Boore, D.~M., 1972.
+\newblock A note on the effect of simple topography on seismic sh waves, {\it
+  Bulletin of the Seismological Society of America\/}, {\bf 62}(1), 275--284.
+
+\bibitem[Bouchon \& Barker(1996)]{bouchon1996seismic}
+Bouchon, M. \& Barker, J.~S., 1996.
+\newblock Seismic response of a hill: the example of tarzana, california, {\it
+  Bulletin of the Seismological Society of America\/}, {\bf 86}(1A), 66--72.
+
+\bibitem[Code(2005)]{code2005eurocode}
+Code, P., 2005.
+\newblock Eurocode 8: Design of structures for earthquake resistance-part 1:
+  General rules, seismic actions and rules for buildings, {\it Brussels:
+  European Committee for Standardization\/}.
+
+\bibitem[Geli et~al.(1988)Geli, Bard, \& Jullien]{geli1988effect}
+Geli, L., Bard, P.-Y., \& Jullien, B., 1988.
+\newblock The effect of topography on earthquake ground motion: a review and
+  new results, {\it Bulletin of the Seismological Society of America\/}, {\bf
+  78}(1), 42--63.
+
+\bibitem[Gomez et~al.(2013)Gomez, Restrepo, Jaramillo, \&
+  Valencia]{gomez2013analysis}
+Gomez, J., Restrepo, D., Jaramillo, J., \& Valencia, C., 2013.
+\newblock Analysis of the role of diffraction in topographic site effects using
+  boundary element techniques, {\it Earthquake Science\/}, {\bf 26}(5),
+  341--350.
+
+\bibitem[Gomez et~al.(2016)Gomez, Jaramillo, Saenz, \&
+  Vergara]{Gomez2016superposition}
+Gomez, J., Jaramillo, J., Saenz, M., \& Vergara, J., 2016.
+\newblock A superposition based diffraction technique to study site effects in
+  earthquake engineering, {\it International Journal of Geophysics\/}, {\bf
+  2016}.
+
+\bibitem[Jaramillo et~al.(2012)Jaramillo, Gomez, Saenz, \&
+  Vergara]{Jaramillo2012Analytic}
+Jaramillo, J., Gomez, J., Saenz, M., \& Vergara, J., 2012.
+\newblock Analytic approximation to the scattering of antiplane shear waves by
+  free surfaces of arbitrary shape via superposition of incident, reflected and
+  diffracted rays, {\it Geophysical Journal International\/}, {\bf 192}(3),
+  1132--1143.
+
+\bibitem[Jaramillo et~al.(2013)Jaramillo, Gomez, Saenz, \&
+  Vergara]{jaramillo2013analytic}
+Jaramillo, J., Gomez, J., Saenz, M., \& Vergara, J., 2013.
+\newblock Analytic approximation to the scattering of antiplane shear waves by
+  free surfaces of arbitrary shape via superposition of incident, reflected and
+  diffracted rays, {\it Geophysical Journal International\/}, {\bf 192}(3),
+  1132--1143.
+
+\bibitem[Keller(1962)]{[1962]Kell}
+Keller, J., 1962.
+\newblock Geometrical theory of diffraction, {\it Journal of the Optical
+  Society America\/}, {\bf 52}(2), 116--130.
+
+\bibitem[Kouyoumjian \& Pathak(1974)]{[1974]KoyPat}
+Kouyoumjian, R. \& Pathak, P., 1974.
+\newblock A uniform geometrical theory of diffraction for an edge in a
+  perfectly conducting surface., {\it Proceedings of the IEEE\/}, {\bf 62}(11),
+  1448--1461.
+
+\bibitem[Lysmer et~al.(1975)Lysmer, Udaka, Tsai, \& Seed]{lysmer1975flush}
+Lysmer, J., Udaka, T., Tsai, C., \& Seed, H.~B., 1975.
+\newblock Flush-a computer program for approximate 3-d analysis of
+  soil-structure interaction problems, Tech. rep., California Univ., Richmond
+  (USA). Earthquake Engineering Research Center.
+
+\bibitem[Makra \& Ch{\'a}vez-Garc{\'\i}a(2016)]{makra2016site}
+Makra, K. \& Ch{\'a}vez-Garc{\'\i}a, F.~J., 2016.
+\newblock Site effects in 3d basins using 1d and 2d models: an evaluation of
+  the differences based on simulations of the seismic response of euroseistest,
+  {\it Bulletin of Earthquake Engineering\/}, {\bf 14}(4), 1177--1194.
+
+\bibitem[Mohammadi \& Asimaki(2017)]{mohammadi2017topography}
+Mohammadi, K. \& Asimaki, D., 2017.
+\newblock Topography effects are not dominated by ground surface geometry: A
+  site effects paradox, in {\em Geotechnical Frontiers 2017\/}, pp. 171--181.
+
+\bibitem[Restrepo et~al.(2012)Restrepo, Taborda, \& Bielak]{restrepo2012three}
+Restrepo, D., Taborda, R., \& Bielak, J., 2012.
+\newblock Three-dimensional nonlinear earthquake ground motion simulation in
+  the salt lake basin using the wasatch front community velocity model, Tech.
+  rep., Final technical report, USGS Award G10AP00077.
+
+\bibitem[Restrepo et~al.(2016)Restrepo, Bielak, Serrano, G{\'o}mez, \&
+  Jaramillo]{restrepo2016effects}
+Restrepo, D., Bielak, J., Serrano, R., G{\'o}mez, J., \& Jaramillo, J., 2016.
+\newblock Effects of realistic topography on the ground motion of the colombian
+  andes--a case study at the aburr{\'a} valley, antioquia, {\it Geophysical
+  Journal International\/}, {\bf 204}(3), 1801--1816.
+
+\bibitem[Sanchez-Sesma(1985)]{[1985]Sz}
+Sanchez-Sesma, F., 1985.
+\newblock Diffraction of elastic sh waves by wedges, {\it Bulletin of the
+  Seismological Society of America\/}, {\bf 75}(5), 1435--1446.
+
+\bibitem[Sanchez-Sesma(1990)]{[1990]Sz}
+Sanchez-Sesma, F., 1990.
+\newblock Elementary solutions for response of a wedge-shaped medium to
+  incident sh and sv waves., {\it Bulletin of the Seismological Society of
+  America\/}, {\bf 80}(3), 737--742.
+
+\bibitem[S\'anchez-Sesma \& Campillo(1991)]{sanchez-sesma91}
+S\'anchez-Sesma, F. \& Campillo, M., 1991.
+\newblock {D}iffraction of {P}, {SV}, and {R}ayleigh waves by topographic
+  features: {A} boundary integral formulation, {\it Bulletin of the
+  Seismological Society of America\/}, {\bf 81}(6), 2234--2253.
+
+\bibitem[S{\'a}nchez-Sesma \& Rosenblueth(1979)]{sanchez1979ground}
+S{\'a}nchez-Sesma, F.~J. \& Rosenblueth, E., 1979.
+\newblock Ground motion at canyons of arbitrary shape under incident sh waves,
+  {\it Earthquake Engineering \& Structural Dynamics\/}, {\bf 7}(5), 441--450.
+
+\bibitem[Shnabel(1972)]{shnabel1972shake}
+Shnabel, P., 1972.
+\newblock Shake, a computer program for earthquake response analysis of
+  horizontal layered sites, {\it Report No. EERC 72-12\/}.
+
+\bibitem[Taborda \& Bielak(2011)]{Taborda2011}
+Taborda, R. \& Bielak, J., 2011.
+\newblock {Large-Scale Earthquake Simulation: Computational Seismology and
+  Complex Engineering Systems}, {\it Computing in Science \& Engineering\/},
+  {\bf 13}(4), 14--27.
+
+\bibitem[Taborda \& Bielak(2013)]{Taborda2013}
+Taborda, R. \& Bielak, J., 2013.
+\newblock {Ground-Motion Simulation and Validation of the 2008 Chino Hills,
+  California, Earthquake}, {\it Bulletin of the Seismological Society of
+  America\/}, {\bf 103}(1), 131--156.
+
+\bibitem[Todorovska \& Lee(1991)]{[1991a]TodyLee}
+Todorovska, M. \& Lee, V., 1991.
+\newblock Surface motion of circular alluvial valleys of variable depth for
+  incident plane sh waves., {\it Soil Dynamics and Earthquake Engineering\/},
+  {\bf 10}, 192--200.
+
+\bibitem[Trifunac(1971)]{[1971]TRIFUNAC}
+Trifunac, M., 1971.
+\newblock Surface motion of a semi-cylindrical alluvial valley for incident
+  plane sh waves, {\it Bulletin of the Seismological Society of America\/},
+  {\bf 61}(6), 1155–1770.
+
+\bibitem[Trifunac(1973)]{Trifunac1973}
+Trifunac, M., 1973.
+\newblock Scattering of plane sh waves by a semi-cylindrical canyon., {\it
+  Earthquake Engineering and Structural Dynamics\/}, {\bf 1}, 267--281.
+
+\bibitem[Trifunac \& Hudson(1971)]{trifunac1971analysis}
+Trifunac, M.~D. \& Hudson, D.~E., 1971.
+\newblock Analysis of the pacoima dam accelerogram—san fernando, california,
+  earthquake of 1971, {\it Bulletin of the Seismological Society of America\/},
+  {\bf 61}(5), 1393--1411.
+
+\bibitem[Tsaur \& Chang(2008)]{tsaur2008analytical}
+Tsaur, D.-H. \& Chang, K.-H., 2008.
+\newblock An analytical approach for the scattering of sh waves by a
+  symmetrical v-shaped canyon: shallow case, {\it Geophysical Journal
+  International\/}, {\bf 174}(1), 255--264.
+
+\end{thebibliography}
